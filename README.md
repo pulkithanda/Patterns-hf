@@ -5,7 +5,7 @@
 </p>
 
 <p>
-Create different patterns and designs using your favourite programming language and include some details in comments.
+Create different patterns and designs using your favourite programming language weather it be a square pattern, star pattern, diamond or anything of your choice                 and include some details in comments so as to the user can comprehend. Contribution guidelines below.
 </p>
 
 ## Contribution Guidelines🏗
