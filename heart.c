@@ -1,10 +1,34 @@
+//This is the code for a HEART star pattern
+
+/*
+
+Output will be like:
+
+  *****     *****
+ *******   *******
+********* *********
+*******************
+ *****************
+  ***************
+   *************
+    ***********
+     *********
+      *******
+       *****
+        ***
+         *
+	 
+The size of the heart will depend of n
+
+*/
+
 #include <stdio.h>
 
 int main()
 {
     int i, j, n;
 	
-    printf("Enter value of n : ");		//You can ssign a value to n so the heart can have different sizes.
+    printf("Enter value of n : ");		//You can assign a value to n so the heart can have different sizes.
     scanf("%d", &n);
 	
 	 //We go through everything and put * where necessary for our pattern
